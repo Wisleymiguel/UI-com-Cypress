@@ -5,3 +5,5 @@ export const homePage = {
     return cy.get(`[href="/Tab/${menu}"]`).click();
   }
 };
+
+
