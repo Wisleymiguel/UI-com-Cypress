@@ -1,0 +1,606 @@
+{
+    "success": true,
+    "categories": [
+        {
+            "_id": "68642e602ee79f5d5f958262",
+            "name": "Deltarune",
+            "photo": "https://projectn.com.br/wp-content/uploads/2022/09/deltarune-capitulo-2-comecou-a-ser-desenvolvido-em-maio-deste-ano-1024x460.webp",
+            "createdAt": "2025-07-01T18:52:16.136Z",
+            "updatedAt": "2025-07-01T18:52:16.136Z",
+            "__v": 0
+        },
+        {
+            "_id": "68642d0e2ee79f5d5f958235",
+            "name": "Deltarune",
+            "photo": "https://www.google.com/imgres?q=deltarune&imgurl=https%3A%2F%2Fdeltarune.com%2Fassets%2Fimages%2Fkey-art.png&imgrefurl=https%3A%2F%2Fdeltarune.com%2F&docid=RqnBrT0kLkqVaM&tbnid=3ysGR2meg84yPM&vet=12ahUKEwiGv8_9qJyOAxW5HrkGHWT3EMcQM3oECBwQAA..i&w=960&h=780&hcb=2&ved=2ahUKEwiGv8_9qJyOAxW5HrkGHWT3EMcQM3oECBwQAA",
+            "createdAt": "2025-07-01T18:46:38.462Z",
+            "updatedAt": "2025-07-01T18:46:38.462Z",
+            "__v": 0
+        },
+        {
+            "_id": "685ac5262ee79f5d5f952c89",
+            "name": "Cavalos",
+            "photo": "https://labovet.com.br/wp-content/uploads/2019/05/SINTOMAS-DE-UM-CAVALO-ESTRESSADO-1024x576.webp",
+            "createdAt": "2025-06-24T15:32:54.326Z",
+            "updatedAt": "2025-06-24T15:32:54.326Z",
+            "__v": 0
+        },
+        {
+            "_id": "685ac4fb2ee79f5d5f952c81",
+            "name": "Cavalos",
+            "photo": "https://labovet.com.br/wp-content/uploads/2019/05/SINTOMAS-DE-UM-CAVALO-ESTRESSADO-1024x576.webp",
+            "createdAt": "2025-06-24T15:32:11.192Z",
+            "updatedAt": "2025-06-24T15:32:11.192Z",
+            "__v": 0
+        },
+        {
+            "_id": "685ac1882ee79f5d5f952c44",
+            "name": "Cavalos",
+            "photo": "https://labovet.com.br/wp-content/uploads/2019/05/SINTOMAS-DE-UM-CAVALO-ESTRESSADO-1024x576.webp",
+            "createdAt": "2025-06-24T15:17:28.382Z",
+            "updatedAt": "2025-06-24T15:17:28.382Z",
+            "__v": 0
+        },
+        {
+            "_id": "685ac1502ee79f5d5f952c3b",
+            "name": "Cavalos",
+            "photo": "https://labovet.com.br/wp-content/uploads/2019/05/SINTOMAS-DE-UM-CAVALO-ESTRESSADO-1024x576.webp",
+            "createdAt": "2025-06-24T15:16:32.263Z",
+            "updatedAt": "2025-06-24T15:16:32.263Z",
+            "__v": 0
+        },
+        {
+            "_id": "685abf0d693c5ac45bf1f599",
+            "name": "Celulares",
+            "photo": "https://labovet.com.br/wp-content/uploads/2019/05/SINTOMAS-DE-UM-CAVALO-ESTRESSADO-1024x576.webp",
+            "createdAt": "2025-06-24T15:06:53.213Z",
+            "updatedAt": "2025-06-24T15:06:53.213Z",
+            "__v": 0
+        },
+        {
+            "_id": "685abedd693c5ac45bf1f592",
+            "name": "Celulares",
+            "photo": "https://labovet.com.br/wp-content/uploads/2019/05/SINTOMAS-DE-UM-CAVALO-ESTRESSADO-1024x576.webp",
+            "createdAt": "2025-06-24T15:06:05.840Z",
+            "updatedAt": "2025-06-24T15:06:05.840Z",
+            "__v": 0
+        },
+        {
+            "_id": "685abe91693c5ac45bf1f58b",
+            "name": "Celulares",
+            "photo": "https://labovet.com.br/wp-content/uploads/2019/05/SINTOMAS-DE-UM-CAVALO-ESTRESSADO-1024x576.webp",
+            "createdAt": "2025-06-24T15:04:49.264Z",
+            "updatedAt": "2025-06-24T15:04:49.264Z",
+            "__v": 0
+        },
+        {
+            "_id": "685abe61693c5ac45bf1f584",
+            "name": "Celulares",
+            "photo": "https://labovet.com.br/wp-content/uploads/2019/05/SINTOMAS-DE-UM-CAVALO-ESTRESSADO-1024x576.webp",
+            "createdAt": "2025-06-24T15:04:01.093Z",
+            "updatedAt": "2025-06-24T15:04:01.093Z",
+            "__v": 0
+        },
+        {
+            "_id": "685abe13693c5ac45bf1f57d",
+            "name": "Cavalos",
+            "photo": "https://labovet.com.br/wp-content/uploads/2019/05/SINTOMAS-DE-UM-CAVALO-ESTRESSADO-1024x576.webp",
+            "createdAt": "2025-06-24T15:02:43.572Z",
+            "updatedAt": "2025-06-24T15:02:43.572Z",
+            "__v": 0
+        },
+        {
+            "_id": "685abdc7693c5ac45bf1f576",
+            "name": "Cavalos",
+            "photo": "https://labovet.com.br/wp-content/uploads/2019/05/SINTOMAS-DE-UM-CAVALO-ESTRESSADO-1024x576.webp",
+            "createdAt": "2025-06-24T15:01:27.863Z",
+            "updatedAt": "2025-06-24T15:01:27.863Z",
+            "__v": 0
+        },
+        {
+            "_id": "685abd75693c5ac45bf1f56f",
+            "name": "Cavalos",
+            "photo": "https://labovet.com.br/wp-content/uploads/2019/05/SINTOMAS-DE-UM-CAVALO-ESTRESSADO-1024x576.webp",
+            "createdAt": "2025-06-24T15:00:05.625Z",
+            "updatedAt": "2025-06-24T15:00:05.625Z",
+            "__v": 0
+        },
+        {
+            "_id": "685abcab693c5ac45bf1f567",
+            "name": "Cavalos",
+            "photo": "https://labovet.com.br/wp-content/uploads/2019/05/SINTOMAS-DE-UM-CAVALO-ESTRESSADO-1024x576.webp",
+            "createdAt": "2025-06-24T14:56:43.342Z",
+            "updatedAt": "2025-06-24T14:56:43.342Z",
+            "__v": 0
+        },
+        {
+            "_id": "685abc6a693c5ac45bf1f55f",
+            "name": "Cavalos",
+            "photo": "https://labovet.com.br/wp-content/uploads/2019/05/SINTOMAS-DE-UM-CAVALO-ESTRESSADO-1024x576.webp",
+            "createdAt": "2025-06-24T14:55:38.726Z",
+            "updatedAt": "2025-06-24T14:55:38.726Z",
+            "__v": 0
+        },
+        {
+            "_id": "685abc41693c5ac45bf1f557",
+            "name": "Cavalos",
+            "photo": "https://labovet.com.br/wp-content/uploads/2019/05/SINTOMAS-DE-UM-CAVALO-ESTRESSADO-1024x576.webp",
+            "createdAt": "2025-06-24T14:54:57.130Z",
+            "updatedAt": "2025-06-24T14:54:57.130Z",
+            "__v": 0
+        },
+        {
+            "_id": "685abb60693c5ac45bf1f54b",
+            "name": "Cavalos",
+            "photo": "https://labovet.com.br/wp-content/uploads/2019/05/SINTOMAS-DE-UM-CAVALO-ESTRESSADO-1024x576.webp",
+            "createdAt": "2025-06-24T14:51:12.317Z",
+            "updatedAt": "2025-06-24T14:51:12.317Z",
+            "__v": 0
+        },
+        {
+            "_id": "685abad1693c5ac45bf1f540",
+            "name": "Cavalos",
+            "photo": "https://labovet.com.br/wp-content/uploads/2019/05/SINTOMAS-DE-UM-CAVALO-ESTRESSADO-1024x576.webp",
+            "createdAt": "2025-06-24T14:48:49.755Z",
+            "updatedAt": "2025-06-24T14:48:49.755Z",
+            "__v": 0
+        },
+        {
+            "_id": "685aaddc693c5ac45bf1f4c6",
+            "name": "Cavalos",
+            "photo": "https://labovet.com.br/wp-content/uploads/2019/05/SINTOMAS-DE-UM-CAVALO-ESTRESSADO-1024x576.webp",
+            "createdAt": "2025-06-24T13:53:32.387Z",
+            "updatedAt": "2025-06-24T13:53:32.387Z",
+            "__v": 0
+        },
+        {
+            "_id": "685aa8b6693c5ac45bf1f49b",
+            "name": "Cavalos",
+            "photo": "https://labovet.com.br/wp-content/uploads/2019/05/SINTOMAS-DE-UM-CAVALO-ESTRESSADO-1024x576.webp",
+            "createdAt": "2025-06-24T13:31:34.829Z",
+            "updatedAt": "2025-06-24T13:31:34.829Z",
+            "__v": 0
+        },
+        {
+            "_id": "685aa85c693c5ac45bf1f483",
+            "name": "Cavalos",
+            "photo": "https://labovet.com.br/wp-content/uploads/2019/05/SINTOMAS-DE-UM-CAVALO-ESTRESSADO-1024x576.webp",
+            "createdAt": "2025-06-24T13:30:04.363Z",
+            "updatedAt": "2025-06-24T13:30:04.363Z",
+            "__v": 0
+        },
+        {
+            "_id": "683e2c0e693c5ac45bf16135",
+            "name": "acessorios",
+            "photo": "https://img.freepik.com/fotos-gratis/acessorios-de-vista-superior-para-viajar-com-conceito-de-vestuario-feminino-telemovel-relogio-saco-chapeu-mapa-camera-colar-calcas-e-oculos-escuros-na-mesa-de-madeira-branca_1921-106.jpg?semt=ais_hybrid&w=740",
+            "createdAt": "2025-06-02T22:56:14.406Z",
+            "updatedAt": "2025-06-02T22:56:14.406Z",
+            "__v": 0
+        },
+        {
+            "_id": "682d1e86eeee3279c776dbed",
+            "name": "acessorios",
+            "photo": "https://img.freepik.com/fotos-gratis/acessorios-de-vista-superior-para-viajar-com-conceito-de-vestuario-feminino-telemovel-relogio-saco-chapeu-mapa-camera-colar-calcas-e-oculos-escuros-na-mesa-de-madeira-branca_1921-106.jpg?semt=ais_hybrid&w=740",
+            "createdAt": "2025-05-21T00:29:58.112Z",
+            "updatedAt": "2025-05-21T00:29:58.112Z",
+            "__v": 0
+        },
+        {
+            "_id": "682d1611eeee3279c776d9ff",
+            "name": "acessorios",
+            "photo": "https://img.freepik.com/fotos-gratis/acessorios-de-vista-superior-para-viajar-com-conceito-de-vestuario-feminino-telemovel-relogio-saco-chapeu-mapa-camera-colar-calcas-e-oculos-escuros-na-mesa-de-madeira-branca_1921-106.jpg?semt=ais_hybrid&w=740",
+            "createdAt": "2025-05-20T23:53:53.491Z",
+            "updatedAt": "2025-05-20T23:53:53.491Z",
+            "__v": 0
+        },
+        {
+            "_id": "68005ae0a597f45f11bfa778",
+            "name": "Tools",
+            "photo": "https://picsum.photos/seed/wZMsPr/862/2467",
+            "createdAt": "2025-04-17T01:35:28.445Z",
+            "updatedAt": "2025-04-17T01:35:28.848Z",
+            "__v": 0
+        },
+        {
+            "_id": "680059faa597f45f11bfa772",
+            "name": "Clothing",
+            "photo": "https://picsum.photos/seed/JHi7x/3227/3990",
+            "createdAt": "2025-04-17T01:31:38.730Z",
+            "updatedAt": "2025-04-17T01:31:38.730Z",
+            "__v": 0
+        },
+        {
+            "_id": "680059e0a597f45f11bfa76c",
+            "name": "Books",
+            "photo": "https://loremflickr.com/1497/702?lock=5197769615032509",
+            "createdAt": "2025-04-17T01:31:12.692Z",
+            "updatedAt": "2025-04-17T01:31:12.692Z",
+            "__v": 0
+        },
+        {
+            "_id": "6800598ca597f45f11bfa766",
+            "name": "Shoes",
+            "photo": "https://picsum.photos/seed/eGgZa4F5LF/2150/2232",
+            "createdAt": "2025-04-17T01:29:48.166Z",
+            "updatedAt": "2025-04-17T01:29:48.166Z",
+            "__v": 0
+        },
+        {
+            "_id": "68005978a597f45f11bfa760",
+            "name": "Outdoors",
+            "photo": "https://picsum.photos/seed/7siQd/246/1159",
+            "createdAt": "2025-04-17T01:29:28.598Z",
+            "updatedAt": "2025-04-17T01:29:28.598Z",
+            "__v": 0
+        },
+        {
+            "_id": "68005947a597f45f11bfa75a",
+            "name": "Health",
+            "photo": "https://loremflickr.com/2236/1462?lock=3382024461648404",
+            "createdAt": "2025-04-17T01:28:39.479Z",
+            "updatedAt": "2025-04-17T01:28:39.479Z",
+            "__v": 0
+        },
+        {
+            "_id": "680058f5a597f45f11bfa752",
+            "name": "Health",
+            "photo": "https://picsum.photos/seed/ZC9VMx6p3/2327/1014",
+            "createdAt": "2025-04-17T01:27:17.773Z",
+            "updatedAt": "2025-04-17T01:27:17.773Z",
+            "__v": 0
+        },
+        {
+            "_id": "680058e0a597f45f11bfa74c",
+            "name": "Electronics",
+            "photo": "https://picsum.photos/seed/c2NAIhmF/415/556",
+            "createdAt": "2025-04-17T01:26:56.394Z",
+            "updatedAt": "2025-04-17T01:26:56.394Z",
+            "__v": 0
+        },
+        {
+            "_id": "68005734a597f45f11bfa744",
+            "name": "Clothing",
+            "photo": "https://loremflickr.com/2862/1302?lock=302261638100302",
+            "createdAt": "2025-04-17T01:19:48.523Z",
+            "updatedAt": "2025-04-17T01:19:48.523Z",
+            "__v": 0
+        },
+        {
+            "_id": "680056bba597f45f11bfa740",
+            "name": "Beauty",
+            "photo": "https://picsum.photos/seed/DQi30fRKh/2569/969",
+            "createdAt": "2025-04-17T01:17:47.860Z",
+            "updatedAt": "2025-04-17T01:17:47.860Z",
+            "__v": 0
+        },
+        {
+            "_id": "680056aba597f45f11bfa73c",
+            "name": "Shoes",
+            "photo": "https://picsum.photos/seed/GvPwmel/929/3108",
+            "createdAt": "2025-04-17T01:17:31.602Z",
+            "updatedAt": "2025-04-17T01:17:31.602Z",
+            "__v": 0
+        },
+        {
+            "_id": "680055c9a597f45f11bfa738",
+            "name": "Home",
+            "photo": "https://picsum.photos/seed/lONt4Uh/3904/1021",
+            "createdAt": "2025-04-17T01:13:45.964Z",
+            "updatedAt": "2025-04-17T01:13:45.964Z",
+            "__v": 0
+        },
+        {
+            "_id": "67ec5ec936e994dfd8ba7378",
+            "name": "bolsas-teste-exercicio-60",
+            "photo": "https://www.zipmaster.com/wp-content/uploads/2022/04/Reusable-Cloth-Shopping-Bags-Rainbow-Pack-200-Case-Reusable-Bags-B26-061-3-1000x1000.jpg.webp",
+            "createdAt": "2025-04-01T21:46:49.680Z",
+            "updatedAt": "2025-04-01T21:46:49.680Z",
+            "__v": 0
+        },
+        {
+            "_id": "67ec5ec436e994dfd8ba7374",
+            "name": "bolsas-teste-exercicio-50",
+            "photo": "https://www.zipmaster.com/wp-content/uploads/2022/04/Reusable-Cloth-Shopping-Bags-Rainbow-Pack-200-Case-Reusable-Bags-B26-061-3-1000x1000.jpg.webp",
+            "createdAt": "2025-04-01T21:46:44.334Z",
+            "updatedAt": "2025-04-01T21:46:44.334Z",
+            "__v": 0
+        },
+        {
+            "_id": "67ec5ec236e994dfd8ba7370",
+            "name": "bolsas-teste-exercicio-50",
+            "photo": "https://www.zipmaster.com/wp-content/uploads/2022/04/Reusable-Cloth-Shopping-Bags-Rainbow-Pack-200-Case-Reusable-Bags-B26-061-3-1000x1000.jpg.webp",
+            "createdAt": "2025-04-01T21:46:42.468Z",
+            "updatedAt": "2025-04-01T21:46:42.468Z",
+            "__v": 0
+        },
+        {
+            "_id": "67ec5b3936e994dfd8ba7343",
+            "name": "bolsas-teste-exercicio-40",
+            "photo": "https://www.zipmaster.com/wp-content/uploads/2022/04/Reusable-Cloth-Shopping-Bags-Rainbow-Pack-200-Case-Reusable-Bags-B26-061-3-1000x1000.jpg.webp",
+            "createdAt": "2025-04-01T21:31:37.431Z",
+            "updatedAt": "2025-04-01T21:31:37.431Z",
+            "__v": 0
+        },
+        {
+            "_id": "67ec5b2f36e994dfd8ba733e",
+            "name": "bolsas-teste-exercicio-20",
+            "photo": "https://www.zipmaster.com/wp-content/uploads/2022/04/Reusable-Cloth-Shopping-Bags-Rainbow-Pack-200-Case-Reusable-Bags-B26-061-3-1000x1000.jpg.webp",
+            "createdAt": "2025-04-01T21:31:27.953Z",
+            "updatedAt": "2025-04-01T21:31:27.953Z",
+            "__v": 0
+        },
+        {
+            "_id": "67ec5b2636e994dfd8ba7339",
+            "name": "bolsas-teste-exercicio-1",
+            "photo": "https://www.zipmaster.com/wp-content/uploads/2022/04/Reusable-Cloth-Shopping-Bags-Rainbow-Pack-200-Case-Reusable-Bags-B26-061-3-1000x1000.jpg.webp",
+            "createdAt": "2025-04-01T21:31:18.516Z",
+            "updatedAt": "2025-04-01T21:31:18.516Z",
+            "__v": 0
+        },
+        {
+            "_id": "67ec4b97ea280413dd1e20cd",
+            "name": "bags teste 20",
+            "photo": "https://www.zipmaster.com/wp-content/uploads/2022/04/Reusable-Cloth-Shopping-Bags-Rainbow-Pack-200-Case-Reusable-Bags-B26-061-3-1000x1000.jpg.webp",
+            "createdAt": "2025-04-01T20:24:55.923Z",
+            "updatedAt": "2025-04-01T20:24:55.923Z",
+            "__v": 0
+        },
+        {
+            "_id": "67ec47ba8bb5e25d3b274243",
+            "name": "bolsas-teste-exercicio-1",
+            "photo": "https://www.zipmaster.com/wp-content/uploads/2022/04/Reusable-Cloth-Shopping-Bags-Rainbow-Pack-200-Case-Reusable-Bags-B26-061-3-1000x1000.jpg.webp",
+            "createdAt": "2025-04-01T20:08:26.511Z",
+            "updatedAt": "2025-04-01T20:08:26.511Z",
+            "__v": 0
+        },
+        {
+            "_id": "67ec47238bb5e25d3b274240",
+            "name": "bolsas-teste-exercicio-1",
+            "photo": "https://www.zipmaster.com/wp-content/uploads/2022/04/Reusable-Cloth-Shopping-Bags-Rainbow-Pack-200-Case-Reusable-Bags-B26-061-3-1000x1000.jpg.webp",
+            "createdAt": "2025-04-01T20:05:55.880Z",
+            "updatedAt": "2025-04-01T20:05:55.880Z",
+            "__v": 0
+        },
+        {
+            "_id": "67ec421d8bb5e25d3b274222",
+            "name": "Bags Joy 2",
+            "photo": "https://www.zipmaster.com/wp-content/uploads/2022/04/Reusable-Cloth-Shopping-Bags-Rainbow-Pack-200-Case-Reusable-Bags-B26-061-3-1000x1000.jpg.webp",
+            "createdAt": "2025-04-01T19:44:29.827Z",
+            "updatedAt": "2025-04-01T19:44:29.827Z",
+            "__v": 0
+        },
+        {
+            "_id": "67ec41678bb5e25d3b27421f",
+            "name": "Bags Joy  Joy",
+            "photo": "https://www.zipmaster.com/wp-content/uploads/2022/04/Reusable-Cloth-Shopping-Bags-Rainbow-Pack-200-Case-Reusable-Bags-B26-061-3-1000x1000.jpg.webp",
+            "createdAt": "2025-04-01T19:41:27.367Z",
+            "updatedAt": "2025-04-01T19:41:27.367Z",
+            "__v": 0
+        },
+        {
+            "_id": "67ec3ef68bb5e25d3b274213",
+            "name": "Bags Joy",
+            "photo": "https://www.zipmaster.com/wp-content/uploads/2022/04/Reusable-Cloth-Shopping-Bags-Rainbow-Pack-200-Case-Reusable-Bags-B26-061-3-1000x1000.jpg.webp",
+            "createdAt": "2025-04-01T19:31:02.473Z",
+            "updatedAt": "2025-04-01T19:31:02.473Z",
+            "__v": 0
+        },
+        {
+            "_id": "67ec3e678bb5e25d3b2741f4",
+            "name": "bolsas-teste-exercicio-1",
+            "photo": "https://www.zipmaster.com/wp-content/uploads/2022/04/Reusable-Cloth-Shopping-Bags-Rainbow-Pack-200-Case-Reusable-Bags-B26-061-3-1000x1000.jpg.webp",
+            "createdAt": "2025-04-01T19:28:39.549Z",
+            "updatedAt": "2025-04-01T19:28:39.549Z",
+            "__v": 0
+        },
+        {
+            "_id": "67ec3ab38bb5e25d3b2741e9",
+            "name": "Bags Joy",
+            "photo": "https://www.zipmaster.com/wp-content/uploads/2022/04/Reusable-Cloth-Shopping-Bags-Rainbow-Pack-200-Case-Reusable-Bags-B26-061-3-1000x1000.jpg.webp",
+            "createdAt": "2025-04-01T19:12:51.562Z",
+            "updatedAt": "2025-04-01T19:12:51.562Z",
+            "__v": 0
+        },
+        {
+            "_id": "67ec3a9e8bb5e25d3b2741e6",
+            "name": "Bags Joy",
+            "photo": "https://www.zipmaster.com/wp-content/uploads/2022/04/Reusable-Cloth-Shopping-Bags-Rainbow-Pack-200-Case-Reusable-Bags-B26-061-3-1000x1000.jpg.webp",
+            "createdAt": "2025-04-01T19:12:30.899Z",
+            "updatedAt": "2025-04-01T19:12:30.899Z",
+            "__v": 0
+        },
+        {
+            "_id": "67ec39bb8bb5e25d3b2741e2",
+            "name": "Bags 1",
+            "photo": "https://www.zipmaster.com/wpcontent/uploads/2022/04/Reusable-Cloth-Shopping-Bags-RainbowPack-200-Case-Reusable-Bags-B26-061-3-1000x1000.jpg.webp",
+            "createdAt": "2025-04-01T19:08:43.345Z",
+            "updatedAt": "2025-04-01T19:08:43.345Z",
+            "__v": 0
+        },
+        {
+            "_id": "67ec35448bb5e25d3b2741df",
+            "name": "Bags 1",
+            "photo": "https://www.zipmaster.com/wpcontent/uploads/2022/04/Reusable-Cloth-Shopping-Bags-RainbowPack-200-Case-Reusable-Bags-B26-061-3-1000x1000.jpg.webp",
+            "createdAt": "2025-04-01T18:49:40.612Z",
+            "updatedAt": "2025-04-01T18:49:40.612Z",
+            "__v": 0
+        },
+        {
+            "_id": "67e2bf44ad0a28d184fb08ba",
+            "name": "Nova-Bolsa-Edição",
+            "photo": "https://i.ibb.co/fdnfMG4v/bolsa-ebac.webp",
+            "createdAt": "2025-03-25T14:35:48.691Z",
+            "updatedAt": "2025-03-25T14:35:48.691Z",
+            "__v": 0
+        },
+        {
+            "_id": "67d1f109712a3b283621a36b",
+            "name": "Bags 1",
+            "photo": "https://www.zipmaster.com/wpcontent/uploads/2022/04/Reusable-Cloth-Shopping-Bags-RainbowPack-200-Case-Reusable-Bags-B26-061-3-1000x1000.jpg.webp",
+            "createdAt": "2025-03-12T20:39:37.411Z",
+            "updatedAt": "2025-03-12T20:39:37.411Z",
+            "__v": 0
+        },
+        {
+            "_id": "67ccb707712a3b2836219eb8",
+            "name": "blackFriday - games",
+            "photo": "any",
+            "createdAt": "2025-03-08T21:30:47.370Z",
+            "updatedAt": "2025-03-08T21:30:47.370Z",
+            "__v": 0
+        },
+        {
+            "_id": "67ca2b5e0c56763348c59ecd",
+            "name": "Celulares",
+            "photo": "any",
+            "createdAt": "2025-03-06T23:10:22.108Z",
+            "updatedAt": "2025-03-06T23:10:22.108Z",
+            "__v": 0
+        },
+        {
+            "_id": "67ca2413c3fb181828a4e242",
+            "name": "Celulares",
+            "photo": "any",
+            "createdAt": "2025-03-06T22:39:15.996Z",
+            "updatedAt": "2025-03-06T22:39:15.996Z",
+            "__v": 0
+        },
+        {
+            "_id": "67ca23aa1f1822671d701471",
+            "name": "Celulares",
+            "photo": "any",
+            "createdAt": "2025-03-06T22:37:30.831Z",
+            "updatedAt": "2025-03-06T22:37:30.831Z",
+            "__v": 0
+        },
+        {
+            "_id": "67ca239540abbd0c6d7a6677",
+            "name": "Celulares",
+            "photo": "any",
+            "createdAt": "2025-03-06T22:37:09.317Z",
+            "updatedAt": "2025-03-06T22:37:09.317Z",
+            "__v": 0
+        },
+        {
+            "_id": "67ca22f95edf672eab154508",
+            "name": "Celulares",
+            "photo": "any",
+            "createdAt": "2025-03-06T22:34:33.342Z",
+            "updatedAt": "2025-03-06T22:34:33.342Z",
+            "__v": 0
+        },
+        {
+            "_id": "67ca22dcaf2da1155340d791",
+            "name": "Celulares",
+            "photo": "any",
+            "createdAt": "2025-03-06T22:34:04.427Z",
+            "updatedAt": "2025-03-06T22:34:04.427Z",
+            "__v": 0
+        },
+        {
+            "_id": "67c8e716af2da1155340d6cf",
+            "name": "Celulares",
+            "photo": "any",
+            "createdAt": "2025-03-06T00:06:46.682Z",
+            "updatedAt": "2025-03-06T00:06:46.682Z",
+            "__v": 0
+        },
+        {
+            "_id": "67c787e541dbd6078a420383",
+            "name": "Celulares",
+            "photo": "any",
+            "createdAt": "2025-03-04T23:08:21.112Z",
+            "updatedAt": "2025-03-04T23:08:21.112Z",
+            "__v": 0
+        },
+        {
+            "_id": "67c782d3412d04cbd1cb50c6",
+            "name": "Celulares",
+            "photo": "any",
+            "createdAt": "2025-03-04T22:46:43.107Z",
+            "updatedAt": "2025-03-04T22:46:43.107Z",
+            "__v": 0
+        },
+        {
+            "_id": "67ace58c0cf0a913258b3f81",
+            "name": "bolsas-teste-exercicio-QA",
+            "photo": "https://www.zipmaster.com/wp-content/uploads/2022/04/Reusable-Cloth-Shopping-Bags-Rainbow-Pack-200-Case-Reusable-Bags-B26-061-3-1000x1000.jpg.webp",
+            "createdAt": "2025-02-12T18:16:44.474Z",
+            "updatedAt": "2025-02-12T18:16:44.474Z",
+            "__v": 0
+        },
+        {
+            "_id": "67ace4d10cf0a913258b3f52",
+            "name": "bolsas-teste-exercicio-QA",
+            "photo": "https://www.zipmaster.com/wp-content/uploads/2022/04/Reusable-Cloth-Shopping-Bags-Rainbow-Pack-200-Case-Reusable-Bags-B26-061-3-1000x1000.jpg.webp",
+            "createdAt": "2025-02-12T18:13:37.708Z",
+            "updatedAt": "2025-02-12T18:13:37.708Z",
+            "__v": 0
+        },
+        {
+            "_id": "67acc50b0cf0a913258b3d57",
+            "name": "Bolsas-02",
+            "photo": "https://www.zipmaster.com/wp-content/uploads/2022/04/Reusable-Cloth-Shopping-Bags-Rainbow-Pack-200-Case-Reusable-Bags-B26-061-3-1000x1000.jpg.webp",
+            "createdAt": "2025-02-12T15:58:03.909Z",
+            "updatedAt": "2025-02-12T15:58:03.909Z",
+            "__v": 0
+        },
+        {
+            "_id": "67acbd160cf0a913258b3c92",
+            "name": "bolsas-teste-exercicio-QA",
+            "photo": "https://www.zipmaster.com/wp-content/uploads/2022/04/Reusable-Cloth-Shopping-Bags-Rainbow-Pack-200-Case-Reusable-Bags-B26-061-3-1000x1000.jpg.webp",
+            "createdAt": "2025-02-12T15:24:06.560Z",
+            "updatedAt": "2025-02-12T15:24:06.560Z",
+            "__v": 0
+        },
+        {
+            "_id": "67acba9e0cf0a913258b3c2d",
+            "name": "bolsas-teste-exercicio-QA",
+            "photo": "https://www.zipmaster.com/wp-content/uploads/2022/04/Reusable-Cloth-Shopping-Bags-Rainbow-Pack-200-Case-Reusable-Bags-B26-061-3-1000x1000.jpg.webp",
+            "createdAt": "2025-02-12T15:13:34.242Z",
+            "updatedAt": "2025-02-12T15:13:34.242Z",
+            "__v": 0
+        },
+        {
+            "_id": "67acb9300cf0a913258b3c28",
+            "name": "bolsas-teste-exercicio-QA",
+            "photo": "https://www.zipmaster.com/wp-content/uploads/2022/04/Reusable-Cloth-Shopping-Bags-Rainbow-Pack-200-Case-Reusable-Bags-B26-061-3-1000x1000.jpg.webp",
+            "createdAt": "2025-02-12T15:07:28.635Z",
+            "updatedAt": "2025-02-12T15:07:28.635Z",
+            "__v": 0
+        },
+        {
+            "_id": "67acb8cf0cf0a913258b3c1a",
+            "name": "bolsas-teste-exercicio-QA",
+            "photo": "https://www.zipmaster.com/wp-content/uploads/2022/04/Reusable-Cloth-Shopping-Bags-Rainbow-Pack-200-Case-Reusable-Bags-B26-061-3-1000x1000.jpg.webp",
+            "createdAt": "2025-02-12T15:05:51.284Z",
+            "updatedAt": "2025-02-12T15:05:51.284Z",
+            "__v": 0
+        },
+        {
+            "_id": "67acb88d0cf0a913258b3c16",
+            "name": "bolsas-teste-exercicio-QA",
+            "photo": "https://www.zipmaster.com/wp-content/uploads/2022/04/Reusable-Cloth-Shopping-Bags-Rainbow-Pack-200-Case-Reusable-Bags-B26-061-3-1000x1000.jpg.webp",
+            "createdAt": "2025-02-12T15:04:45.668Z",
+            "updatedAt": "2025-02-12T15:04:45.668Z",
+            "__v": 0
+        },
+        {
+            "_id": "67acb6f50cf0a913258b3bdc",
+            "name": "bolsas-teste-exercicio-QA",
+            "photo": "https://www.zipmaster.com/wp-content/uploads/2022/04/Reusable-Cloth-Shopping-Bags-Rainbow-Pack-200-Case-Reusable-Bags-B26-061-3-1000x1000.jpg.webp",
+            "createdAt": "2025-02-12T14:57:57.906Z",
+            "updatedAt": "2025-02-12T14:57:57.906Z",
+            "__v": 0
+        },
+        {
+            "_id": "67acb0f70cf0a913258b3b50",
+            "name": "bolsas-teste-exercicio",
+            "photo": "https://www.zipmaster.com/wp-content/uploads/2022/04/Reusable-Cloth-Shopping-Bags-Rainbow-Pack-200-Case-Reusable-Bags-B26-061-3-1000x1000.jpg.webp",
+            "createdAt": "2025-02-12T14:32:23.316Z",
+            "updatedAt": "2025-02-12T14:32:23.316Z",
+            "__v": 0
+        }
+    ],
+    "totalCategory": 75
+}

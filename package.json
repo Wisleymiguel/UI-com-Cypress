@@ -1,5 +1,13 @@
 {
   "devDependencies": {
     "cypress": "^14.4.1"
-  }
+  },
+  "dependencies": {
+    "cypress-html-reporter": "^11.0.0"
+  },
+  "scripts": {
+  "test": "cypress run",
+  "cy:open": "cypress open",
+  "cy:run": "cypress run"
+}
 }

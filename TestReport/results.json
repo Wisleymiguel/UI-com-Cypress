@@ -1,0 +1,185 @@
+{
+  "browserName": "electron",
+  "browserPath": "",
+  "browserVersion": "130.0.6723.137",
+  "config": {
+    "baseUrl": "http://lojaebac.ebaconline.art.br",
+    "projectRoot": "C:\\repositorio\\UI com Cypress",
+    "projectName": "UI com Cypress",
+    "configFile": "cypress.config.js",
+    "isTextTerminal": true,
+    "animationDistanceThreshold": 5,
+    "arch": "x64",
+    "blockHosts": null,
+    "chromeWebSecurity": true,
+    "clientCertificates": [],
+    "defaultBrowser": null,
+    "defaultCommandTimeout": 4000,
+    "downloadsFolder": "C:\\repositorio\\UI com Cypress\\cypress\\downloads",
+    "env": {},
+    "execTimeout": 60000,
+    "experimentalCspAllowList": false,
+    "experimentalInteractiveRunEvents": false,
+    "experimentalRunAllSpecs": false,
+    "experimentalMemoryManagement": false,
+    "experimentalModifyObstructiveThirdPartyCode": false,
+    "injectDocumentDomain": false,
+    "experimentalOriginDependencies": false,
+    "experimentalSourceRewriting": false,
+    "experimentalSingleTabRunMode": false,
+    "experimentalStudio": false,
+    "experimentalWebKitSupport": false,
+    "fileServerFolder": "C:\\repositorio\\UI com Cypress",
+    "fixturesFolder": "C:\\repositorio\\UI com Cypress\\cypress\\fixtures",
+    "excludeSpecPattern": "*.hot-update.js",
+    "includeShadowDom": false,
+    "justInTimeCompile": true,
+    "keystrokeDelay": 0,
+    "modifyObstructiveCode": true,
+    "numTestsKeptInMemory": 0,
+    "platform": "win32",
+    "pageLoadTimeout": 60000,
+    "port": 64736,
+    "projectId": null,
+    "redirectionLimit": 20,
+    "reporter": "spec",
+    "reporterOptions": null,
+    "requestTimeout": 5000,
+    "resolvedNodePath": "C:\\Program Files\\nodejs\\node.exe",
+    "resolvedNodeVersion": "22.14.0",
+    "responseTimeout": 30000,
+    "retries": {
+      "runMode": 0,
+      "openMode": 0
+    },
+    "screenshotOnRunFailure": true,
+    "screenshotsFolder": "C:\\repositorio\\UI com Cypress\\cypress\\screenshots",
+    "slowTestThreshold": 10000,
+    "scrollBehavior": "top",
+    "supportFile": "C:\\repositorio\\UI com Cypress\\cypress\\support\\e2e.js",
+    "taskTimeout": 60000,
+    "testIsolation": true,
+    "trashAssetsBeforeRuns": true,
+    "userAgent": null,
+    "video": false,
+    "videoCompression": false,
+    "videosFolder": "C:\\repositorio\\UI com Cypress\\cypress\\videos",
+    "viewportHeight": 660,
+    "viewportWidth": 1000,
+    "waitForAnimations": true,
+    "watchForFileChanges": false,
+    "specPattern": "cypress/e2e/**/*.cy.{js,jsx,ts,tsx}",
+    "browsers": [
+      {
+        "channel": "stable",
+        "displayName": "Firefox",
+        "family": "firefox",
+        "majorVersion": "88",
+        "name": "firefox",
+        "path": "C:\\Program Files\\Mozilla Firefox\\firefox.exe",
+        "version": "88.0"
+      },
+      {
+        "channel": "stable",
+        "displayName": "Edge",
+        "family": "chromium",
+        "majorVersion": "138",
+        "name": "edge",
+        "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "version": "138.0.3351.65"
+      },
+      {
+        "channel": "stable",
+        "displayName": "Electron",
+        "family": "chromium",
+        "majorVersion": 130,
+        "name": "electron",
+        "path": "",
+        "version": "130.0.6723.137"
+      }
+    ],
+    "cypressBinaryRoot": "C:\\Users\\wisle\\AppData\\Local\\Cypress\\Cache\\14.4.1\\Cypress\\resources\\app",
+    "hosts": null,
+    "isInteractive": true,
+    "version": "14.4.1",
+    "testingType": "e2e",
+    "browser": null,
+    "cypressInternalEnv": "production"
+  },
+  "cypressVersion": "14.4.1",
+  "endedTestsAt": "2025-07-07T18:44:44.819Z",
+  "osName": "win32",
+  "osVersion": "10.0.26100",
+  "runs": [
+    {
+      "error": null,
+      "reporter": "spec",
+      "reporterStats": {
+        "suites": 1,
+        "tests": 2,
+        "passes": 2,
+        "pending": 0,
+        "failures": 0,
+        "start": "2025-07-07T18:44:38.198Z",
+        "end": "2025-07-07T18:44:44.827Z",
+        "duration": 6629
+      },
+      "screenshots": [],
+      "spec": {
+        "absolute": "C:/repositorio/UI com Cypress/cypress/e2e/Cypress Intercept .cy.js",
+        "fileExtension": ".js",
+        "fileName": "Cypress Intercept ",
+        "name": "Cypress Intercept .cy.js",
+        "relative": "cypress\\e2e\\Cypress Intercept .cy.js"
+      },
+      "stats": {
+        "duration": 6628,
+        "endedAt": "2025-07-07T18:44:44.819Z",
+        "failures": 0,
+        "passes": 2,
+        "pending": 0,
+        "skipped": 0,
+        "startedAt": "2025-07-07T18:44:38.191Z",
+        "suites": 1,
+        "tests": 2
+      },
+      "tests": [
+        {
+          "attempts": [
+            {
+              "state": "passed"
+            }
+          ],
+          "displayError": null,
+          "duration": 4561,
+          "state": "passed",
+          "title": [
+            "categories"
+          ]
+        },
+        {
+          "attempts": [
+            {
+              "state": "passed"
+            }
+          ],
+          "displayError": null,
+          "duration": 2048,
+          "state": "passed",
+          "title": [
+            "Nocategories"
+          ]
+        }
+      ],
+      "video": null
+    }
+  ],
+  "startedTestsAt": "2025-07-07T18:44:38.191Z",
+  "totalDuration": 6628,
+  "totalFailed": 0,
+  "totalPassed": 2,
+  "totalPending": 0,
+  "totalSkipped": 0,
+  "totalSuites": 1,
+  "totalTests": 2
+}
