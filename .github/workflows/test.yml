@@ -1,0 +1,71 @@
+name: Cypress Tests
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "test"
+  test:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      - uses: actions/checkout@v2
+      
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+          
+      # Cache node_modules para acelerar builds
+      - name: Cache node modules
+        uses: actions/cache@v2
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+            
+      # Instalar dependências
+      - name: Install dependencies
+        run: npm install
+        
+      # Executar testes Cypress
+      - name: Cypress run
+        uses: cypress-io/github-action@v2
+        with:
+          install-command: npm install
+          browser: chrome
+          continue-on-error: true
+          
+      # Gerar relatório HTML usando cypress-html-reporter
+      - name: Generate HTML Report
+        run: |
+          npx cypress-html-reporter --source TestReport/results.json --output TestReport/Report.html
+        continue-on-error: true
+        
+      # Upload dos artifacts (relatórios, screenshots, vídeos)
+      - name: Upload Test Results
+        uses: actions/upload-artifact@v2
+        if: always()
+        with:
+          name: cypress-results
+          path: |
+            TestReport/
+            cypress/screenshots/
+            cypress/videos/
+            
+      # Publicar relatório no GitHub Pages
+      - name: Publish Report
+        uses: peaceiris/actions-gh-pages@v3
+        if: always()
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./TestReport
