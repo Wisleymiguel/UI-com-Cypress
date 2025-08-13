@@ -39,7 +39,7 @@
     "numTestsKeptInMemory": 0,
     "platform": "win32",
     "pageLoadTimeout": 60000,
-    "port": 64736,
+    "port": 53162,
     "projectId": null,
     "redirectionLimit": 20,
     "reporter": "spec",
@@ -83,10 +83,10 @@
         "channel": "stable",
         "displayName": "Edge",
         "family": "chromium",
-        "majorVersion": "138",
+        "majorVersion": "139",
         "name": "edge",
         "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
-        "version": "138.0.3351.65"
+        "version": "139.0.3405.86"
       },
       {
         "channel": "stable",
@@ -107,7 +107,7 @@
     "cypressInternalEnv": "production"
   },
   "cypressVersion": "14.4.1",
-  "endedTestsAt": "2025-07-07T18:44:44.819Z",
+  "endedTestsAt": "2025-08-13T23:15:58.323Z",
   "osName": "win32",
   "osVersion": "10.0.26100",
   "runs": [
@@ -120,9 +120,9 @@
         "passes": 2,
         "pending": 0,
         "failures": 0,
-        "start": "2025-07-07T18:44:38.198Z",
-        "end": "2025-07-07T18:44:44.827Z",
-        "duration": 6629
+        "start": "2025-08-13T23:15:46.269Z",
+        "end": "2025-08-13T23:15:58.326Z",
+        "duration": 12057
       },
       "screenshots": [],
       "spec": {
@@ -133,13 +133,13 @@
         "relative": "cypress\\e2e\\Cypress Intercept .cy.js"
       },
       "stats": {
-        "duration": 6628,
-        "endedAt": "2025-07-07T18:44:44.819Z",
+        "duration": 12061,
+        "endedAt": "2025-08-13T23:15:58.323Z",
         "failures": 0,
         "passes": 2,
         "pending": 0,
         "skipped": 0,
-        "startedAt": "2025-07-07T18:44:38.191Z",
+        "startedAt": "2025-08-13T23:15:46.262Z",
         "suites": 1,
         "tests": 2
       },
@@ -151,10 +151,11 @@
             }
           ],
           "displayError": null,
-          "duration": 4561,
+          "duration": 6067,
           "state": "passed",
           "title": [
-            "categories"
+            "Teste utilizando App Actions",
+            "Deve testar categorias"
           ]
         },
         {
@@ -164,18 +165,19 @@
             }
           ],
           "displayError": null,
-          "duration": 2048,
+          "duration": 5976,
           "state": "passed",
           "title": [
-            "Nocategories"
+            "Teste utilizando App Actions",
+            "Deve testar Nocategorias"
           ]
         }
       ],
       "video": null
     }
   ],
-  "startedTestsAt": "2025-07-07T18:44:38.191Z",
-  "totalDuration": 6628,
+  "startedTestsAt": "2025-08-13T23:15:46.262Z",
+  "totalDuration": 12061,
   "totalFailed": 0,
   "totalPassed": 2,
   "totalPending": 0,
