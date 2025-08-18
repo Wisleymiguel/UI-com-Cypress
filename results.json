@@ -41,7 +41,7 @@
     "numTestsKeptInMemory": 0,
     "platform": "linux",
     "pageLoadTimeout": 60000,
-    "port": 40149,
+    "port": 38773,
     "projectId": null,
     "redirectionLimit": 20,
     "reporter": "spec",
@@ -127,7 +127,7 @@
     "cypressInternalEnv": "production"
   },
   "cypressVersion": "14.5.4",
-  "endedTestsAt": "2025-08-18T18:26:14.936Z",
+  "endedTestsAt": "2025-08-18T18:30:38.717Z",
   "osName": "linux",
   "osVersion": "Ubuntu - ",
   "runs": [
@@ -140,9 +140,9 @@
         "passes": 2,
         "pending": 0,
         "failures": 0,
-        "start": "2025-08-18T18:25:40.665Z",
-        "end": "2025-08-18T18:26:14.940Z",
-        "duration": 34275
+        "start": "2025-08-18T18:30:15.472Z",
+        "end": "2025-08-18T18:30:38.718Z",
+        "duration": 23246
       },
       "screenshots": [],
       "spec": {
@@ -153,13 +153,13 @@
         "relative": "cypress/e2e/Cypress Intercept .cy.js"
       },
       "stats": {
-        "duration": 34276,
-        "endedAt": "2025-08-18T18:26:14.936Z",
+        "duration": 23250,
+        "endedAt": "2025-08-18T18:30:38.717Z",
         "failures": 0,
         "passes": 2,
         "pending": 0,
         "skipped": 0,
-        "startedAt": "2025-08-18T18:25:40.660Z",
+        "startedAt": "2025-08-18T18:30:15.467Z",
         "suites": 1,
         "tests": 2
       },
@@ -171,7 +171,7 @@
             }
           ],
           "displayError": null,
-          "duration": 24847,
+          "duration": 15460,
           "state": "passed",
           "title": [
             "Teste utilizando App Actions",
@@ -185,7 +185,7 @@
             }
           ],
           "displayError": null,
-          "duration": 9410,
+          "duration": 7769,
           "state": "passed",
           "title": [
             "Teste utilizando App Actions",
@@ -196,8 +196,8 @@
       "video": null
     }
   ],
-  "startedTestsAt": "2025-08-18T18:25:40.660Z",
-  "totalDuration": 34276,
+  "startedTestsAt": "2025-08-18T18:30:15.467Z",
+  "totalDuration": 23250,
   "totalFailed": 0,
   "totalPassed": 2,
   "totalPending": 0,
