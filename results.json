@@ -1,7 +1,7 @@
 {
   "browserName": "chrome",
   "browserPath": "google-chrome",
-  "browserVersion": "139.0.7258.66",
+  "browserVersion": "139.0.7258.127",
   "config": {
     "baseUrl": "http://lojaebac.ebaconline.art.br",
     "projectRoot": "/home/runner/work/UI-com-Cypress/UI-com-Cypress",
@@ -41,14 +41,14 @@
     "numTestsKeptInMemory": 0,
     "platform": "linux",
     "pageLoadTimeout": 60000,
-    "port": 38773,
+    "port": 43541,
     "projectId": null,
     "redirectionLimit": 20,
     "reporter": "spec",
     "reporterOptions": null,
     "requestTimeout": 5000,
     "resolvedNodePath": "/home/runner/actions-runner/cached/externals/node20/bin/node",
-    "resolvedNodeVersion": "20.19.3",
+    "resolvedNodeVersion": "20.19.4",
     "responseTimeout": 30000,
     "retries": {
       "runMode": 0,
@@ -79,7 +79,7 @@
         "majorVersion": "139",
         "name": "chrome",
         "path": "google-chrome",
-        "version": "139.0.7258.66"
+        "version": "139.0.7258.127"
       },
       {
         "channel": "stable",
@@ -97,7 +97,7 @@
         "majorVersion": "141",
         "name": "firefox",
         "path": "firefox",
-        "version": "141.0.2"
+        "version": "141.0.3"
       },
       {
         "channel": "stable",
@@ -106,7 +106,7 @@
         "majorVersion": "139",
         "name": "edge",
         "path": "microsoft-edge",
-        "version": "139.0.3405.86"
+        "version": "139.0.3405.102"
       },
       {
         "channel": "stable",
@@ -127,7 +127,7 @@
     "cypressInternalEnv": "production"
   },
   "cypressVersion": "14.5.4",
-  "endedTestsAt": "2025-08-18T18:30:38.717Z",
+  "endedTestsAt": "2025-08-22T14:11:11.452Z",
   "osName": "linux",
   "osVersion": "Ubuntu - ",
   "runs": [
@@ -140,9 +140,9 @@
         "passes": 2,
         "pending": 0,
         "failures": 0,
-        "start": "2025-08-18T18:30:15.472Z",
-        "end": "2025-08-18T18:30:38.718Z",
-        "duration": 23246
+        "start": "2025-08-22T14:10:47.256Z",
+        "end": "2025-08-22T14:11:11.453Z",
+        "duration": 24197
       },
       "screenshots": [],
       "spec": {
@@ -153,13 +153,13 @@
         "relative": "cypress/e2e/Cypress Intercept .cy.js"
       },
       "stats": {
-        "duration": 23250,
-        "endedAt": "2025-08-18T18:30:38.717Z",
+        "duration": 24201,
+        "endedAt": "2025-08-22T14:11:11.452Z",
         "failures": 0,
         "passes": 2,
         "pending": 0,
         "skipped": 0,
-        "startedAt": "2025-08-18T18:30:15.467Z",
+        "startedAt": "2025-08-22T14:10:47.251Z",
         "suites": 1,
         "tests": 2
       },
@@ -171,7 +171,7 @@
             }
           ],
           "displayError": null,
-          "duration": 15460,
+          "duration": 14835,
           "state": "passed",
           "title": [
             "Teste utilizando App Actions",
@@ -185,7 +185,7 @@
             }
           ],
           "displayError": null,
-          "duration": 7769,
+          "duration": 9347,
           "state": "passed",
           "title": [
             "Teste utilizando App Actions",
@@ -196,8 +196,8 @@
       "video": null
     }
   ],
-  "startedTestsAt": "2025-08-18T18:30:15.467Z",
-  "totalDuration": 23250,
+  "startedTestsAt": "2025-08-22T14:10:47.251Z",
+  "totalDuration": 24201,
   "totalFailed": 0,
   "totalPassed": 2,
   "totalPending": 0,
