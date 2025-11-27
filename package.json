@@ -1,7 +1,7 @@
 {
   "devDependencies": {
     "cypress": "^14.4.1",
-    "@reportportal/agent-js-cypress": "^latest"
+    "@reportportal/agent-js-cypress": "^5.1.4"
   },
   "dependencies": {
     "cypress-html-reporter": "^11.0.0"

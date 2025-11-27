@@ -3,10 +3,25 @@
   "browserPath": "",
   "browserVersion": "130.0.6723.137",
   "config": {
+    "configFile": "C:\\repositorio\\UI com Cypress\\cypress.config.js",
+    "testingType": "e2e",
+    "reporter": "@reportportal/agent-js-cypress",
+    "reporterOptions": {
+      "apiKey": "testecypress_WazL5x41Tb6KMHiuup17v3omviKWwrIcQWFVut55HeTGt0zP74469VFzypD1cced",
+      "endpoint": "https://demo.reportportal.io/api/v1",
+      "project": "wisleymiguel_personal",
+      "launch": "testes",
+      "description": "teste ebac",
+      "attributes": [
+        {
+          "key": "ambiente",
+          "value": "homologacao"
+        }
+      ]
+    },
     "baseUrl": "http://lojaebac.ebaconline.art.br",
     "projectRoot": "C:\\repositorio\\UI com Cypress",
     "projectName": "UI com Cypress",
-    "configFile": "cypress.config.js",
     "isTextTerminal": true,
     "animationDistanceThreshold": 5,
     "arch": "x64",
@@ -39,11 +54,9 @@
     "numTestsKeptInMemory": 0,
     "platform": "win32",
     "pageLoadTimeout": 60000,
-    "port": 53162,
+    "port": 58027,
     "projectId": null,
     "redirectionLimit": 20,
-    "reporter": "spec",
-    "reporterOptions": null,
     "requestTimeout": 5000,
     "resolvedNodePath": "C:\\Program Files\\nodejs\\node.exe",
     "resolvedNodeVersion": "22.14.0",
@@ -83,10 +96,10 @@
         "channel": "stable",
         "displayName": "Edge",
         "family": "chromium",
-        "majorVersion": "139",
+        "majorVersion": "142",
         "name": "edge",
         "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
-        "version": "139.0.3405.86"
+        "version": "142.0.3595.94"
       },
       {
         "channel": "stable",
@@ -102,27 +115,26 @@
     "hosts": null,
     "isInteractive": true,
     "version": "14.4.1",
-    "testingType": "e2e",
     "browser": null,
     "cypressInternalEnv": "production"
   },
   "cypressVersion": "14.4.1",
-  "endedTestsAt": "2025-08-13T23:15:58.323Z",
+  "endedTestsAt": "2025-11-27T15:41:37.217Z",
   "osName": "win32",
-  "osVersion": "10.0.26100",
+  "osVersion": "10.0.26200",
   "runs": [
     {
       "error": null,
-      "reporter": "spec",
+      "reporter": "@reportportal/agent-js-cypress",
       "reporterStats": {
         "suites": 1,
         "tests": 2,
         "passes": 2,
         "pending": 0,
         "failures": 0,
-        "start": "2025-08-13T23:15:46.269Z",
-        "end": "2025-08-13T23:15:58.326Z",
-        "duration": 12057
+        "start": "2025-11-27T15:41:10.082Z",
+        "end": "2025-11-27T15:41:37.288Z",
+        "duration": 27206
       },
       "screenshots": [],
       "spec": {
@@ -133,13 +145,13 @@
         "relative": "cypress\\e2e\\Cypress Intercept .cy.js"
       },
       "stats": {
-        "duration": 12061,
-        "endedAt": "2025-08-13T23:15:58.323Z",
+        "duration": 27151,
+        "endedAt": "2025-11-27T15:41:37.217Z",
         "failures": 0,
         "passes": 2,
         "pending": 0,
         "skipped": 0,
-        "startedAt": "2025-08-13T23:15:46.262Z",
+        "startedAt": "2025-11-27T15:41:10.066Z",
         "suites": 1,
         "tests": 2
       },
@@ -151,7 +163,7 @@
             }
           ],
           "displayError": null,
-          "duration": 6067,
+          "duration": 16089,
           "state": "passed",
           "title": [
             "Teste utilizando App Actions",
@@ -165,7 +177,7 @@
             }
           ],
           "displayError": null,
-          "duration": 5976,
+          "duration": 11015,
           "state": "passed",
           "title": [
             "Teste utilizando App Actions",
@@ -176,8 +188,8 @@
       "video": null
     }
   ],
-  "startedTestsAt": "2025-08-13T23:15:46.262Z",
-  "totalDuration": 12061,
+  "startedTestsAt": "2025-11-27T15:41:10.066Z",
+  "totalDuration": 27151,
   "totalFailed": 0,
   "totalPassed": 2,
   "totalPending": 0,
