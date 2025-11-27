@@ -1,13 +1,14 @@
 {
   "devDependencies": {
-    "cypress": "^14.4.1"
+    "cypress": "^14.4.1",
+    "@reportportal/agent-js-cypress": "^latest"
   },
   "dependencies": {
     "cypress-html-reporter": "^11.0.0"
   },
   "scripts": {
-  "test": "cypress run",
-  "cy:open": "cypress open",
-  "cy:run": "cypress run"
-}
+    "test": "cypress run",
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  }
 }

@@ -7,3 +7,12 @@ module.exports = {
     },
   },
 };
+
+module.exports = defineConfig({
+  reporter: '@reportportal/agent-js-cypress',
+  reporterOptions: {
+    apiKey: '<API_KEY>',
+    endpoint: 'https://demo.reportportal.io/api/v1',
+    project: 'wisleymiguel_personal',
+    launch: 'testes',
+    description: 'teste ebac',}})
