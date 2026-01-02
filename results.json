@@ -1,0 +1,215 @@
+{
+  "browserName": "chrome",
+  "browserPath": "google-chrome",
+  "browserVersion": "143.0.7499.109",
+  "config": {
+    "baseUrl": "http://lojaebac.ebaconline.art.br",
+    "projectRoot": "/home/runner/work/UI-com-Cypress/UI-com-Cypress",
+    "projectName": "UI-com-Cypress",
+    "configFile": "cypress.config.js",
+    "isTextTerminal": true,
+    "animationDistanceThreshold": 5,
+    "arch": "x64",
+    "blockHosts": null,
+    "chromeWebSecurity": true,
+    "clientCertificates": [],
+    "defaultBrowser": null,
+    "defaultCommandTimeout": 4000,
+    "downloadsFolder": "/home/runner/work/UI-com-Cypress/UI-com-Cypress/cypress/downloads",
+    "env": {
+      "CACHE_FOLDER": "/home/runner/.cache/Cypress"
+    },
+    "execTimeout": 60000,
+    "experimentalCspAllowList": false,
+    "experimentalInteractiveRunEvents": false,
+    "experimentalRunAllSpecs": false,
+    "experimentalMemoryManagement": false,
+    "experimentalModifyObstructiveThirdPartyCode": false,
+    "injectDocumentDomain": false,
+    "experimentalOriginDependencies": false,
+    "experimentalSourceRewriting": false,
+    "experimentalSingleTabRunMode": false,
+    "experimentalStudio": false,
+    "experimentalWebKitSupport": false,
+    "fileServerFolder": "/home/runner/work/UI-com-Cypress/UI-com-Cypress",
+    "fixturesFolder": "/home/runner/work/UI-com-Cypress/UI-com-Cypress/cypress/fixtures",
+    "excludeSpecPattern": "*.hot-update.js",
+    "includeShadowDom": false,
+    "justInTimeCompile": true,
+    "keystrokeDelay": 0,
+    "modifyObstructiveCode": true,
+    "numTestsKeptInMemory": 0,
+    "platform": "linux",
+    "pageLoadTimeout": 60000,
+    "port": 36537,
+    "projectId": null,
+    "redirectionLimit": 20,
+    "reporter": "spec",
+    "reporterOptions": null,
+    "requestTimeout": 5000,
+    "resolvedNodePath": "/home/runner/actions-runner/cached/externals/node20/bin/node",
+    "resolvedNodeVersion": "20.19.5",
+    "responseTimeout": 30000,
+    "retries": {
+      "runMode": 0,
+      "openMode": 0
+    },
+    "screenshotOnRunFailure": true,
+    "screenshotsFolder": "/home/runner/work/UI-com-Cypress/UI-com-Cypress/cypress/screenshots",
+    "slowTestThreshold": 10000,
+    "scrollBehavior": "top",
+    "supportFile": "/home/runner/work/UI-com-Cypress/UI-com-Cypress/cypress/support/e2e.js",
+    "taskTimeout": 60000,
+    "testIsolation": true,
+    "trashAssetsBeforeRuns": true,
+    "userAgent": null,
+    "video": false,
+    "videoCompression": false,
+    "videosFolder": "/home/runner/work/UI-com-Cypress/UI-com-Cypress/cypress/videos",
+    "viewportHeight": 660,
+    "viewportWidth": 1000,
+    "waitForAnimations": true,
+    "watchForFileChanges": false,
+    "specPattern": "cypress/e2e/**/*.cy.{js,jsx,ts,tsx}",
+    "browsers": [
+      {
+        "channel": "stable",
+        "displayName": "Chrome",
+        "family": "chromium",
+        "majorVersion": "143",
+        "name": "chrome",
+        "path": "google-chrome",
+        "version": "143.0.7499.109"
+      },
+      {
+        "channel": "stable",
+        "displayName": "Chromium",
+        "family": "chromium",
+        "majorVersion": "143",
+        "name": "chromium",
+        "path": "chromium-browser",
+        "version": "143.0.7499.0"
+      },
+      {
+        "channel": "stable",
+        "displayName": "Firefox",
+        "family": "firefox",
+        "majorVersion": "146",
+        "name": "firefox",
+        "path": "firefox",
+        "version": "146.0"
+      },
+      {
+        "channel": "stable",
+        "displayName": "Edge",
+        "family": "chromium",
+        "majorVersion": "143",
+        "name": "edge",
+        "path": "microsoft-edge",
+        "version": "143.0.3650.80"
+      },
+      {
+        "channel": "stable",
+        "displayName": "Electron",
+        "family": "chromium",
+        "majorVersion": 130,
+        "name": "electron",
+        "path": "",
+        "version": "130.0.6723.137"
+      }
+    ],
+    "cypressBinaryRoot": "/home/runner/.cache/Cypress/14.5.4/Cypress/resources/app",
+    "hosts": null,
+    "isInteractive": true,
+    "version": "14.5.4",
+    "testingType": "e2e",
+    "browser": null,
+    "cypressInternalEnv": "production"
+  },
+  "cypressVersion": "14.5.4",
+  "endedTestsAt": "2026-01-02T19:20:01.126Z",
+  "osName": "linux",
+  "osVersion": "Ubuntu - ",
+  "runs": [
+    {
+      "error": null,
+      "reporter": "spec",
+      "reporterStats": {
+        "suites": 1,
+        "tests": 1,
+        "passes": 0,
+        "pending": 0,
+        "failures": 1,
+        "start": "2026-01-02T19:18:00.730Z",
+        "end": "2026-01-02T19:20:01.133Z",
+        "duration": 120403
+      },
+      "screenshots": [
+        {
+          "height": 633,
+          "name": null,
+          "path": "/home/runner/work/UI-com-Cypress/UI-com-Cypress/cypress/screenshots/Cypress Intercept .cy.js/Teste utilizando App Actions -- Deve testar categorias -- before each hook (failed).png",
+          "takenAt": "2026-01-02T19:20:00.782Z",
+          "width": 1280
+        }
+      ],
+      "spec": {
+        "absolute": "/home/runner/work/UI-com-Cypress/UI-com-Cypress/cypress/e2e/Cypress Intercept .cy.js",
+        "fileExtension": ".js",
+        "fileName": "Cypress Intercept ",
+        "name": "Cypress Intercept .cy.js",
+        "relative": "cypress/e2e/Cypress Intercept .cy.js"
+      },
+      "stats": {
+        "duration": 120402,
+        "endedAt": "2026-01-02T19:20:01.126Z",
+        "failures": 1,
+        "passes": 0,
+        "pending": 0,
+        "skipped": 1,
+        "startedAt": "2026-01-02T19:18:00.724Z",
+        "suites": 1,
+        "tests": 2
+      },
+      "tests": [
+        {
+          "attempts": [
+            {
+              "state": "failed"
+            }
+          ],
+          "displayError": "CypressError: Timed out after waiting `120000ms` for your remote page to load.\n\nYour page did not fire its `load` event within `120000ms`.\n\nYou can try increasing the `pageLoadTimeout` value in `cypress.config.js` to wait longer.\n\nBrowsers will not fire the `load` event until all stylesheets and scripts are done downloading.\n\nWhen this `load` event occurs, Cypress will continue running commands.\n\nBecause this error occurred during a `before each` hook we are skipping the remaining tests in the current suite: `Teste utilizando App Actions`\n    at timedOutWaitingForPageLoad (http://lojaebac.ebaconline.art.br/__cypress/runner/cypress_runner.js:134221:64)\n    at <unknown> (http://lojaebac.ebaconline.art.br/__cypress/runner/cypress_runner.js:135215:16)\n    at tryCatcher (http://lojaebac.ebaconline.art.br/__cypress/runner/cypress_runner.js:1777:23)\n    at <unknown> (http://lojaebac.ebaconline.art.br/__cypress/runner/cypress_runner.js:4156:41)\n    at tryCatcher (http://lojaebac.ebaconline.art.br/__cypress/runner/cypress_runner.js:1777:23)\n    at Promise._settlePromiseFromHandler (http://lojaebac.ebaconline.art.br/__cypress/runner/cypress_runner.js:1489:31)\n    at Promise._settlePromise (http://lojaebac.ebaconline.art.br/__cypress/runner/cypress_runner.js:1546:18)\n    at Promise._settlePromise0 (http://lojaebac.ebaconline.art.br/__cypress/runner/cypress_runner.js:1591:10)\n    at Promise._settlePromises (http://lojaebac.ebaconline.art.br/__cypress/runner/cypress_runner.js:1667:18)\n    at _drainQueueStep (http://lojaebac.ebaconline.art.br/__cypress/runner/cypress_runner.js:2377:12)\n    at _drainQueue (http://lojaebac.ebaconline.art.br/__cypress/runner/cypress_runner.js:2370:9)\n    at Async._drainQueues (http://lojaebac.ebaconline.art.br/__cypress/runner/cypress_runner.js:2386:5)\n    at Async.drainQueues (http://lojaebac.ebaconline.art.br/__cypress/runner/cypress_runner.js:2256:14)\nFrom Your Spec Code:\n    at Context.eval (webpack:///./cypress/e2e/Cypress Intercept .cy.js:16:7)",
+          "duration": 120350,
+          "state": "failed",
+          "title": [
+            "Teste utilizando App Actions",
+            "Deve testar categorias"
+          ]
+        },
+        {
+          "attempts": [
+            {
+              "state": "skipped"
+            }
+          ],
+          "displayError": null,
+          "duration": 0,
+          "state": "skipped",
+          "title": [
+            "Teste utilizando App Actions",
+            "Deve testar Nocategorias"
+          ]
+        }
+      ],
+      "video": null
+    }
+  ],
+  "startedTestsAt": "2026-01-02T19:18:00.724Z",
+  "totalDuration": 120402,
+  "totalFailed": 1,
+  "totalPassed": 0,
+  "totalPending": 0,
+  "totalSkipped": 1,
+  "totalSuites": 1,
+  "totalTests": 2
+}
